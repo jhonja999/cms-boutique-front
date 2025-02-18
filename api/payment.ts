@@ -1,5 +1,5 @@
 //para cambiar la pasarela de pago, falta instalar axios
-import axios from "axios";
+/* import axios from "axios";
 
 export const makePaymentRequest = axios.create(
     {
@@ -10,4 +10,4 @@ export const makePaymentRequest = axios.create(
 
 
     }
-)
+) */
